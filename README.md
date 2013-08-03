@@ -1,2 +1,1 @@
-strongbox-annotations
-=====================
+This is a set of annotations shared between the repositoryunit-framework and strongbox.
