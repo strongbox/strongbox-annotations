@@ -1,4 +1,4 @@
-package org.carlspring.repositoryunit.annotations;
+package org.carlspring.strongbox.annotations;
 
 import org.apache.maven.artifact.Artifact;
 

@@ -1,4 +1,4 @@
-package org.carlspring.repositoryunit.annotations;
+package org.carlspring.strongbox.annotations;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
